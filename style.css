@@ -1,0 +1,36 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+.header{
+    width: 100%;
+    margin: 0px;
+    font-size: 35px;
+}
+.input_class{
+    margin: 5px;
+    border-radius: 5px;
+    width: 20%;
+    color: rgb(174, 255, 244);
+    background-color: rgb(47, 255, 231);
+    border: 2px solid rgb(222, 177, 255);
+}
+.object_name_label{
+    font-weight: bold;
+    font-size: 20px;
+}
+canvas{
+    border-radius: 10px;
+    background-color: rgb(231, 134, 255);
+    box-shadow: 7px 7px 7px rgb(0, 174, 255);
+}
+p{
+    color: rgb(106, 255, 223);
+    margin-bottom: 0px;
+    font-size: 20px;
+}
+
+#start_button_id
+{
+    font-size: 20px;
+}
